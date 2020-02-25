@@ -15,6 +15,7 @@ String XML;
 ParserClass P1=new ParserClass(XML);
 
 P1.seperateTag(XML);
+P1.storeInfo();
     }
 
 }
